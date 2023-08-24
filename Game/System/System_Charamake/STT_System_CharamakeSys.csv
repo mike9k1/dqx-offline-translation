@@ -21,7 +21,7 @@ SYSTXT_CHARAMAKE_10100,"Which character would you like to recreate? <cf><bw_brea
 SYSTXT_CHARAMAKE_10110,"You will return to the Book of Adventures selection <cf>without saving your character? <cf><yesno><break>"
 SYSTXT_CHARAMAKE_10120,"This name cannot be used. <cf><bw_break>"
 SYSTXT_CHARAMAKE_20010,"Will you be reborn as {Tribe_Selected_Name}?"
-Is SYSTXT_CHARAMAKE_20020,"{Job_Selected_Name} correct?"
+SYSTXT_CHARAMAKE_20020,"Is {Job_Selected_Name} correct?"
 SYSTXT_CHARAMAKE_30010,"Please choose the color of your character's body. <cf><bw_break>"
 SYSTXT_CHARAMAKE_30020,"Please choose your character's hair color. <cf><bw_break>"
 SYSTXT_CHARAMAKE_30030,"Please choose your character's bite color. <cf><bw_break>"
